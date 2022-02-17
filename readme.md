@@ -4,5 +4,3 @@
 ```
 java swing awt
 ```
-#### reference
-https://oneday0012.tistory.com/18
